@@ -17,5 +17,7 @@
     "mongoose": "^5.0.1",
     "nodemon": "^1.14.11"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "@angular/cli": "^1.6.8"
+  }
 }
